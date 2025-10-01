@@ -1,6 +1,6 @@
 # PRSscz_brainhealth
 
-Code for the analysis of polygenic risk for schizophrenia and brain health
+Codes for the analysis of polygenic risk for schizophrenia and brain health
 
 ## Scripts Description
 
